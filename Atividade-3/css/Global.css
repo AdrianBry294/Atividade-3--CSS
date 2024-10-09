@@ -1,0 +1,23 @@
+.caixa{ background-color: rgb(175, 64, 49); border-style: solid; padding: 10px; width: 500px; display: flex;
+    justify-content: center;
+}
+
+.caixa1{ background-color: rgb(108, 191, 206); border-style: solid; padding: 10px; width: 500px; display: flex;
+    justify-content: center;
+}
+
+.caixa2_1{ background-color: rgb(156, 228, 138); border-style: solid; padding: 10px; width: 250px; display: flex;
+    justify-content: center;
+    height: 100px;
+}
+
+.caixa2_2{ background-color: rgb(103, 107, 102); border-style: solid; padding: 10px; width: 230px; display: flex;
+    justify-content: center;
+    height: 100px;
+    margin: -126px -250px -250px 270px;  
+}
+
+.caixa3{ background-color: rgb(235, 125, 34); border-style: solid; padding: 10px; width: 500px; display: flex;
+    justify-content: center;
+    margin: 250px 0px 0px 0px;
+}
